@@ -10,6 +10,7 @@
 ## Learn
 
 - https://type-level-typescript.com/articles/one-hour-workshop
+- https://www.totaltypescript.com
 - https://www.zhenghao.io/posts/type-programming
 - https://github.com/type-challenges/type-challenges
 
