@@ -1,10 +1,14 @@
 # Type-level programming in TypeScript
 
-[Video](https://www.youtube.com/watch?v=6cf2C76ADM8)
+Materials for the lecture "[Programming types in TypeScript](https://www.youtube.com/watch?v=6cf2C76ADM8)".
 
-[Render server example](https://github.com/smarthead/type-programming-render-server)
+The code shown in the video is in [src/index.ts](https://github.com/smarthead/type-programming/blob/main/src/index.ts) file.
 
-[Typed store example](https://github.com/smarthead/type-programming-typed-store)
+Challenges solved:
+
+- [Render server](https://github.com/smarthead/type-programming-render-server)
+
+- [Typed store](https://github.com/smarthead/type-programming-typed-store)
 
 
 ## Learn
