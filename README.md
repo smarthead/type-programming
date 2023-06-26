@@ -7,7 +7,6 @@ The code shown in the video is in [src/index.ts](https://github.com/smarthead/ty
 Challenges solved:
 
 - [Render server](https://github.com/smarthead/type-programming-render-server)
-
 - [Typed store](https://github.com/smarthead/type-programming-typed-store)
 
 
